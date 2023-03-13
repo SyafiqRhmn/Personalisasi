@@ -23,7 +23,8 @@
 ---
 
 ### 🤟 My Stats :
-<img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyafiqRhmn&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Syafiq's GitHub Stats"> <img align="center" height="200px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyafiqRhmn&hide_border=true&theme=chartreuse-dark"> 
-<img align="center" height="200px" width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyafiqRhmn&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark" alt="Syafiq's Most Used Language">
+<img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyafiqRhmn&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Syafiq's GitHub Stats"> 
+<img align="center" height="200px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyafiqRhmn&hide_border=true&theme=chartreuse-dark"> 
+<img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyafiqRhmn&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark" alt="Syafiq's Most Used Language">
 
 
